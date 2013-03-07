@@ -1,0 +1,8 @@
+<zimlet name="de_dieploegers_admin_vacation" version="1.0"
+	description="Admin Extension for managing  account vacation settings"
+	extension="true">
+	<include>de_dieploegers_admin_vacationController.js</include>
+	<include>de_dieploegers_admin_vacationView.js</include>
+	<include>de_dieploegers_admin_vacationXForm.js</include>
+	<include>de_dieploegers_admin_vacation.js</include>
+</zimlet>
